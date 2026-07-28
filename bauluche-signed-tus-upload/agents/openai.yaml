@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bauluche Signed TUS Upload"
+  short_description: "Maintain direct resumable Supabase image uploads"
+  default_prompt: "Use $bauluche-signed-tus-upload to change or debug Bauluche direct signed TUS image uploads safely."
