@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bauluche Release Verification"
+  short_description: "Prove local, Vercel, Supabase, and admin readiness"
+  default_prompt: "Use $bauluche-release-verification to verify and release a Bauluche change with complete local and production evidence."
