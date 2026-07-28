@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bauluche Development Evidence UI"
+  short_description: "Present sourced development projects without overclaiming"
+  default_prompt: "Use $bauluche-development-evidence-ui to update the Bauluche development-benefits section with sourced, accessible, premium presentation."
