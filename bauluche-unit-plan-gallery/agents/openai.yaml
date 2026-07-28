@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bauluche Unit Plan Gallery"
+  short_description: "Keep unit plans uncropped, factual, and accessible"
+  default_prompt: "Use $bauluche-unit-plan-gallery to add, fix, or review Bauluche unit plans and their accessible tabs."
