@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bauluche Project Orientation"
+  short_description: "Navigate the Bauluche site safely"
+  default_prompt: "Use $bauluche-project-orientation to orient this Bauluche maintenance task before changing code."
