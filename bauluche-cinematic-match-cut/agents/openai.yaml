@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bauluche Cinematic Match Cut"
+  short_description: "Maintain the 4-second intro-to-hero transition"
+  default_prompt: "Use $bauluche-cinematic-match-cut to change or review the Bauluche intro-to-hero transition safely."
