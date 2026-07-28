@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bauluche Media Control Editor"
+  short_description: "Maintain all 19 private image controls"
+  default_prompt: "Use $bauluche-media-control-editor to change or review the Bauluche private image-management experience."
