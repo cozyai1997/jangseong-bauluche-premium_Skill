@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bauluche Owner Auth Security"
+  short_description: "Protect the single-owner Supabase administrator"
+  default_prompt: "Use $bauluche-owner-auth-security to change or audit Bauluche owner login and administrator authorization safely."
