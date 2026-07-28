@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bauluche Media Lifecycle Security"
+  short_description: "Protect media stages, history, fallback, and RLS"
+  default_prompt: "Use $bauluche-media-lifecycle-security to change or audit Bauluche media persistence and security invariants."
